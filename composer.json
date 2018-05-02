@@ -32,7 +32,8 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.1",
+        "ext-sodium": ">=2.0.10",
         "paragonie/constant_time_encoding": "^2",
         "paragonie/sodium_compat": "^1.6"
     },
